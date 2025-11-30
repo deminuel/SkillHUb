@@ -44,7 +44,7 @@ const FaqItem = () => {
 
   return (
     <>
-      <section className="flex gap-24 mb-10">
+      <section className="lg:flex flex-row gap-24 mb-10">
         <div className="mt-36 px-8">
           <p className="text-black font-bold text-l mb-3">
             Have Any Questions?
