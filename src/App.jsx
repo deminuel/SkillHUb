@@ -16,7 +16,7 @@ import Contact from "./pages/Contact";
 import HomePage from "./pages/HomePage";
 
 import AllCourses from "./pages/AllCourses";
-import Courses3A from "./Components/Courses3A";
+
 import CrsExtend from "./Components/CrsExtend";
 import HtmlAttb from "./Components/HtmlAttb";
 import AnaTag from "./Components/AnaTag";
@@ -43,6 +43,7 @@ import SignUpLogin from "./pages/AuthPage";
 import AboutUs from "./pages/AboutUs";
 import Purchase from "./Components/Purchase";
 import { UserProvider } from "./context/UserContext";
+import Courses3A from "./components/Courses3A";
 
 const App = () => {
   return (
