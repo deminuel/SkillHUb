@@ -15,7 +15,7 @@ import Assignment from "./pages/Assignment";
 import Contact from "./pages/Contact";
 import HomePage from "./pages/HomePage";
 
-import AllCourses from "./pages/AllCourses";
+
 
 import CrsExtend from "./Components/CrsExtend";
 import HtmlAttb from "./Components/HtmlAttb";
@@ -30,7 +30,6 @@ import Csec4 from "./Components/Csec4";
 import Csec3 from "./Components/Csec3";
 import Csec2 from "./Components/Csec2";
 import Instructors from "./pages/Instructors";
-import AllCou from "./Components/AllCou";
 import Courses2A from "./Components/Courses2A";
 import PricingPage from "./pages/PricingPage";
 import ItHtml from "./Components/ItHtml";
@@ -44,6 +43,8 @@ import AboutUs from "./pages/AboutUs";
 import Purchase from "./Components/Purchase";
 import { UserProvider } from "./context/UserContext";
 import Courses3A from "./components/Courses3A";
+import AllCourses from "./pages/AllCourses";
+import AllCou from "./Components/AllCou";
 
 const App = () => {
   return (
