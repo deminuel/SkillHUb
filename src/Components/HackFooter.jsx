@@ -1,7 +1,7 @@
 import React from "react";
 import { FaFacebookSquare, FaInstagramSquare, FaYoutube } from "react-icons/fa";
 import { FaSquareGithub, FaSquareXTwitter } from "react-icons/fa6";
-import { Link } from "react-router-dom";
+
 
 const HackFooter = () => {
   return (

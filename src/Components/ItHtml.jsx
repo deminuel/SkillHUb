@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import { FaGreaterThan, FaLessThan, FaRegCircle } from "react-icons/fa";
+import { FaGreaterThan, FaRegCircle } from "react-icons/fa";
 import {
   PiGreaterThanBold,
   PiGreaterThanLight,
-  PiLessThanBold,
+  
   PiLessThanLight,
 } from "react-icons/pi";
 import CrsNav from "../Utils/CrsNav";
@@ -11,7 +11,7 @@ import { RiFileListLine } from "react-icons/ri";
 import {
   IoIosArrowDropdownCircle,
   IoIosArrowDropupCircle,
-  IoMdAlert,
+ 
 } from "react-icons/io";
 import { RxHamburgerMenu, RxTriangleDown } from "react-icons/rx";
 import { VscTriangleDown } from "react-icons/vsc";
@@ -182,12 +182,7 @@ const ItHtml = () => {
               </div>
             </div>
             <div className="flex lg:hidden gap-[50px] py-10 px-4 text-orange-400 font-bold text-xs">
-              {/* <div className="border-[1px] py-4 px-5 items-center ">
-                <button className="flex gap-3 items-center">
-                  <FaLessThan />
-                  Previous Lesson
-                </button>
-              </div> */}
+              
               <div className="border-[1px] py-4 px-5 items-center ">
                 <button className="flex gap-3 items-center">
                   Next Lesson

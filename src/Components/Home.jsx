@@ -15,7 +15,6 @@ import {
   Cell,
 } from "recharts";
 import {
-  Calendar,
   BookOpen,
   TrendingUp,
   Award,

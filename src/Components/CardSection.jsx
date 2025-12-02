@@ -1,10 +1,9 @@
 import React, { useEffect } from 'react'
-import { FaCaretRight } from 'react-icons/fa';
 import Aos from 'aos';
 import "aos/dist/aos.css"
 
 
-const CardSection = ({img, course, name, about, contact}) => {
+const CardSection = ({img, course, name, about}) => {
   useEffect(() => {
     Aos.init();
   }, []);

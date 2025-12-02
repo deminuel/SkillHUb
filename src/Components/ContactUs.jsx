@@ -2,7 +2,7 @@ import { Facebook, MapPin, Phone } from "lucide-react";
 import React, { useState } from "react";
 import { BiEnvelope } from "react-icons/bi";
 import { FaFacebook, FaPinterest, FaTwitter, FaYoutube } from "react-icons/fa";
-import { PiFacebookLogo } from "react-icons/pi";
+
 
 const ContactUs = () => {
   const [name, setName] = useState("");

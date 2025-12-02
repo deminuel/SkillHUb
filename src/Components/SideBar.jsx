@@ -5,7 +5,7 @@ import { LiaAddressBookSolid } from "react-icons/lia";
 import { GrResources } from "react-icons/gr";
 import { BsEnvelope } from "react-icons/bs";
 import NavItem from "./NavItem";
-import NavList from "../Utils/NavList";
+
 import { ImProfile } from "react-icons/im";
 import Logo from "../assets/edu.png";
 import { MdOutlineAssignment } from "react-icons/md";

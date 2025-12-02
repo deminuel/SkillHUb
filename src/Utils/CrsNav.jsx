@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGreaterThan, FaLessThan } from "react-icons/fa";
-import { PiGreaterThanLight, PiLessThanLight } from "react-icons/pi";
+
 
 const CrsNav = () => {
   return (

@@ -25,7 +25,7 @@ import {
   Star,
 } from "lucide-react";
 import { Link } from "react-router-dom";
-import Nav from "../utils/Nav";
+
 import { useUser } from "../context/UserContext";
 
 const Dashboard = () => {

@@ -6,7 +6,8 @@ import Vision from "../Components/Vision";
 import Founder from "../Components/Founder";
 import BgAttachment from "../Components/BgAttachment";
 import Features from "../Components/Features";
-import HackFooter from "../components/HackFooter";
+import HackFooter from "../Components/HackFooter";
+
 
 const AboutUs = () => {
   return (

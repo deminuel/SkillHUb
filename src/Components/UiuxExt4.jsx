@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaGreaterThan, FaLessThan, FaRegCircle } from "react-icons/fa";
+import { FaLessThan, FaRegCircle } from "react-icons/fa";
 import {
   PiGreaterThanBold,
   PiGreaterThanLight,

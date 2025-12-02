@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import EmailSecH from "./EmailSecH";
-import { FaChevronCircleDown, FaRegCircle } from "react-icons/fa";
+import {  FaRegCircle } from "react-icons/fa";
 import { IoIosArrowDown, IoIosArrowUp, IoMdMenu } from "react-icons/io";
 import HackFooter from "./HackFooter";
 import NavList from "../Utils/NavList";

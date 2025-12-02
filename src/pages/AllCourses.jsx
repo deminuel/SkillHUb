@@ -1,8 +1,9 @@
 import React from "react";
 import AllCrsHs from "../Components/AllCrsHs";
 import AllCrsMs from "../Components/AllCrsMs";
-import EmailSecH from "../components/EmailSecH";
-import HackFooter from "../components/HackFooter";
+import HackFooter from "../Components/HackFooter";
+import EmailSecH from "../Components/EmailSecH";
+
 
 const AllCourses = () => {
   return (

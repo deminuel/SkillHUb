@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { FaRegStar, FaStar } from "react-icons/fa";
+import { FaStar } from "react-icons/fa";
 import images1 from "../assets/img1.jpeg";
 import images2 from "../assets/img2.jpeg";
 import images3 from "../assets/logo.jpg";

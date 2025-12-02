@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import {
-  BookOpen,
+ 
   Search,
   Filter,
   PlayCircle,
   CheckCircle,
   Clock,
 } from "lucide-react";
-import { Link } from "react-router-dom";
+
 
 const Courses = () => {
   const allCourses = [
