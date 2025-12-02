@@ -42,9 +42,10 @@ import SignUpLogin from "./pages/AuthPage";
 import AboutUs from "./pages/AboutUs";
 import Purchase from "./Components/Purchase";
 import { UserProvider } from "./context/UserContext";
-import Courses3A from "./components/Courses3A";
+
 import AllCourses from "./pages/AllCourses";
 import AllCou from "./Components/AllCou";
+import Courses3A from "./Components/Courses3A";
 
 const App = () => {
   return (
