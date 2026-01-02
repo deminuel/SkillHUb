@@ -1,9 +1,10 @@
 import React from "react";
-import Membership from "../Components/membership";
+
 import FaqItem from "../Components/FaqItem";
 
 import EmailSecH from "../Components/EmailSecH";
 import HackFooter from "../Components/HackFooter";
+import Membership from "../Components/membership";
 
 
 const PricingPage = () => {
