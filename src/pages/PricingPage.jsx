@@ -1,6 +1,6 @@
 import React from "react";
-import Membership from "../components/membership";
-import FaqItem from "../components/FaqItem";
+import Membership from "../Components/membership";
+import FaqItem from "../Components/FaqItem";
 
 import EmailSecH from "../Components/EmailSecH";
 import HackFooter from "../Components/HackFooter";

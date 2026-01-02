@@ -7,7 +7,7 @@ import React from "react";
 
 import Sub2 from "../Components/Sub2";
 import SubMain from "../Components/SubMain";
-import AddMain from "../components/AddMain";
+import AddMain from "../Components/AddMain";
 import EmailSecH from "../Components/EmailSecH";
 import HackFooter from "../Components/HackFooter";
 import MainHome from "../Components/MainHome";
