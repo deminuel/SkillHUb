@@ -1,13 +1,14 @@
 import React from "react";
 
 
-import SubMain from "../components/SubMain";
+
 
 import AddMain from "../components/AddMain";
 import HackFooter from "../Components/HackFooter";
 import EmailSecH from "../Components/EmailSecH";
 import MainHome from "../Components/MainHome";
 import Sub2 from "../Components/Sub2";
+import SubMain from "../Components/SubMain";
 
 
 const HomePage = () => {
