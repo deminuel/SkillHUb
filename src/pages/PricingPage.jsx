@@ -4,14 +4,15 @@ import FaqItem from "../Components/FaqItem";
 
 import EmailSecH from "../Components/EmailSecH";
 import HackFooter from "../Components/HackFooter";
-import Membership from "../Components/membership";
+
+
 
 
 const PricingPage = () => {
   return (
     <>
       <div className=" bg-gradient-to-b from-[#ecf0f2] to-slate-100">
-        <Membership />
+        {/* <Membership /> */}
         <FaqItem />
         <EmailSecH />
         <HackFooter />
